@@ -6,15 +6,13 @@ __pycache__/
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 
-# VS Code settings 
+# VS Code settings
 .vscode/
 
 # Virtual environment directories
 env/
 venv/
 .nox/
-.env/
-.nlp-dev/
 
 # Data files
 data/raw/
@@ -28,9 +26,10 @@ data/cleaned/
 *.env
 openai_key.txt
 
-# MacOS / system files
+# macOS system files
 .DS_Store
 
 # Logs and outputs
 *.log
 logs/
+
